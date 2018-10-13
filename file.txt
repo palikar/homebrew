@@ -1,3 +1,0 @@
-(some other) To see the command-line we must add two parameters to main which are, by convention
-, named 
-argc (argument count), (some gibberish) , !!!
