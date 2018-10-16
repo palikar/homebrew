@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.2 FATAL_ERROR)
 
-project(challanger LANGUAGES CXX)
+project(homebrew LANGUAGES CXX)
 
 message(STATUS "Build for project ${PROJECT_NAME}")
 include(GNUInstallDirs)
